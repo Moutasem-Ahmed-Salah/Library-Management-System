@@ -14,6 +14,6 @@
 - Java Swing: The graphical user interface (GUI) is implemented using Java Swing framework.
 - OOP: Object-Oriented Programming (OOP) principles are applied to ensure modular and maintainable code.
 - SOLID Principles: SOLID principles are followed to promote code reusability, scalability, and maintainability.
-- Software Design Patterns: Various design patterns, such as the Singleton pattern, Factory pattern, and Observer pattern, are used to organize and structure the codebase.
+- Software Design Patterns: Various design patterns, such as the Singleton pattern, Factory pattern, Adapter,and Facade pattern, are used to organize and structure the codebase.
 - Data Structures: Efficient data structures, such as linked lists and hash maps, are utilized for storing and managing book and user data.
 - Algorithms: Some algorithms, like sorting and searching algorithms, are applied to enhance search and retrieval operations.
