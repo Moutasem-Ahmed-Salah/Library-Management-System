@@ -17,6 +17,7 @@
 - Software Design Patterns: Various design patterns, such as the Singleton pattern, Factory pattern, Adapter,and Facade pattern, are used to organize and structure the codebase.
 - Data Structures: Efficient data structures, such as linked lists and hash maps, are utilized for storing and managing book and user data.
 - Algorithms: Some algorithms, like sorting and searching algorithms, are applied to enhance search and retrieval operations.
+- ### Screenshots
 ![WhatsApp Image 2023-04-17 at 06 00 28](https://github.com/Moutasem-Salah/Library-Management-System/assets/125928209/24d66161-d541-43a8-821f-2cc59384e6a5)
 ![WhatsApp Image 2023-04-17 at 06 00 29](https://github.com/Moutasem-Salah/Library-Management-System/assets/125928209/d6bc3998-9daa-4dae-b9a2-68994dde0365)
 ![WhatsApp Image 2023-04-17 at 07 01 39](https://github.com/Moutasem-Salah/Library-Management-System/assets/125928209/1b98e678-30a1-4f98-97fb-2f05383d6e0a)
